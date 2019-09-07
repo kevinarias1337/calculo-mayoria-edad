@@ -1,0 +1,10 @@
+D:\mayoriaedad\mayoriaedad\bin\Debug\mayoriaedad.exe.config
+D:\mayoriaedad\mayoriaedad\bin\Debug\mayoriaedad.exe
+D:\mayoriaedad\mayoriaedad\bin\Debug\mayoriaedad.pdb
+D:\mayoriaedad\mayoriaedad\obj\Debug\mayoriaedad.csprojAssemblyReference.cache
+D:\mayoriaedad\mayoriaedad\obj\Debug\mayoriaedad.programa.resources
+D:\mayoriaedad\mayoriaedad\obj\Debug\mayoriaedad.Properties.Resources.resources
+D:\mayoriaedad\mayoriaedad\obj\Debug\mayoriaedad.csproj.GenerateResource.cache
+D:\mayoriaedad\mayoriaedad\obj\Debug\mayoriaedad.csproj.CoreCompileInputs.cache
+D:\mayoriaedad\mayoriaedad\obj\Debug\mayoriaedad.exe
+D:\mayoriaedad\mayoriaedad\obj\Debug\mayoriaedad.pdb
